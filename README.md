@@ -25,7 +25,5 @@ This is a modern, responsive landing page built with Next.js to showcase various
 - Node.js 14.6.0 or newer
 - npm or yarn
 
-### Installation
 
-1. Clone the repository:
 
